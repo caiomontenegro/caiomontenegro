@@ -27,8 +27,8 @@
 <a href="https://tailwindcss.com/">
 <img align="center" alt="Caio-TailwindCSS" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg" />
 </a>
-<a href="https://tailwindcss.com/">
-<img align="center" alt="Caio-Bootstrap" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/bootstrap-icons.min.css" />
+<a href="https://getbootstrap.com/">
+<img align="center" alt="Caio-Bootstrap" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" />
 </a>
 <a href="https://github.com/">
 <img align="center" alt="Caio-GitHub" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" />
