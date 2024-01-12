@@ -1,4 +1,4 @@
-## Hello! I'm Caio Montenegro, front-end developer. 👾
+## Hello! I'm Caio Montenegro, Front-End Software Enginner. 👾
 </br>
 <div align="center">
   <a href="https://github.com/caiomontenegro">
