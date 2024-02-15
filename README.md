@@ -37,7 +37,7 @@
 <img align="center" alt="Caio-Gi" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
 </a>
 <a href="https://ubuntu.com/">
-<img align="center" alt="Caio-Ubuntu" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ubuntu/ubuntu-plain.svg" />
+<img align="center" alt="Caio-Ubuntu" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/ubuntu/ubuntu-original.svg" />
 </a>
 </div>
 
