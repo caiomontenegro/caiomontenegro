@@ -30,9 +30,6 @@
 <a href="https://getbootstrap.com/">
 <img align="center" alt="Caio-Bootstrap" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" />
 </a>
-<a href="https://getbootstrap.com/">
-<img align="center" alt="Caio-Vuetify" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" />
-</a>
 <a href="https://vuetifyjs.com/en/">
 <img align="center" alt="Caio-GitHub" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vuetify/vuetify-original.svg" />
 </a>
