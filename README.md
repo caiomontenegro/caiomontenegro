@@ -24,14 +24,14 @@
 <a href="https://vuejs.org/">
 <img align="center" alt="Caio-VUE" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg" />
 </a>
+<a href="https://vuetifyjs.com/en/">
+<img align="center" alt="Caio-GitHub" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vuetify/vuetify-original.svg" />
+</a>
 <a href="https://tailwindcss.com/">
 <img align="center" alt="Caio-VUE" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tailwindcss/tailwindcss-original.svg" />    
 </a>
 <a href="https://getbootstrap.com/">
 <img align="center" alt="Caio-Bootstrap" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" />
-</a>
-<a href="https://vuetifyjs.com/en/">
-<img align="center" alt="Caio-GitHub" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vuetify/vuetify-original.svg" />
 </a>
 <a href="https://www.cypress.io/">
 <img align="center" alt="Caio-Cypress" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cypressio/cypressio-original.svg" />
