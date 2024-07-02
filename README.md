@@ -30,11 +30,17 @@
 <a href="https://getbootstrap.com/">
 <img align="center" alt="Caio-Bootstrap" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" />
 </a>
-<a href="https://github.com/">
-<img align="center" alt="Caio-GitHub" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" />
+<a href="https://getbootstrap.com/">
+<img align="center" alt="Caio-Vuetify" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" />
 </a>
-  <a href="https://git-scm.com/">
-<img align="center" alt="Caio-Gi" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
+<a href="https://vuetifyjs.com/en/">
+<img align="center" alt="Caio-GitHub" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vuetify/vuetify-original.svg" />
+</a>
+<a href="https://www.cypress.io/">
+<img align="center" alt="Caio-Cypress" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cypressio/cypressio-original.svg" />
+</a>
+<a href="https://www.docker.com/">
+<img align="center" alt="Caio-Docker" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
 </a>
 <a href="https://ubuntu.com/">
 <img align="center" alt="Caio-Ubuntu" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/ubuntu/ubuntu-original.svg" />
